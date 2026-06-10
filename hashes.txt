@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Drowning In Cold Sheets
+
+This log tracks the cryptographic history and versioning for the song **Drowning In Cold Sheets** (drowning-in-cold-sheets).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T17:02:14.984704 | `v1` | `0778e6644abe1567584b0c9d00098ce5363dc04c807107ee41c8c8431dcf2839` | `05cdd7833f95e4c5dff67947c6a0bff1f92450bdee42e6fa87c21538881d4157` | `2026-06-10_drowning-in-cold-sheets-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
