@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/drowning-in-cold-sheets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Drowning In Cold Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drowning-in-cold-sheets/) |
+| **Get License** | [Obtain a Music License for Drowning In Cold Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drowning-in-cold-sheets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I am waking up in a sweat with my heart on fire
+> Tangled up in the sheets with a deep desire
+> I am reaching out to pull your body close to me
+> Craving the taste of your skin and your sweet release
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
