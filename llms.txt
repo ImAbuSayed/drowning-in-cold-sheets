@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/drowning-in-cold-sheets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Drowning In Cold Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drowning-in-cold-sheets/) |
+| **Get License** | [License this song: Drowning In Cold Sheets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/drowning-in-cold-sheets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2940)
 
 ---
 
